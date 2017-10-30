@@ -1,4 +1,4 @@
-# Example Input Plugin
+# HTTP Response Input Plugin
 
 This input plugin will test HTTP/HTTPS connections.
 
